@@ -11,7 +11,7 @@
   <div class="container">
 
     <div class="jumbotron">
-      <h2 class="index-head"><img src='img/java.svg' height='90px' /> Java Demo App  (NEW GITHUB_WEBhooks) </h2>
+      <h2 class="index-head"><img src='img/java.svg' height='90px' /> Java Demo App </h2>
       <hr />
       <p class="lead">
         This is a simple Java web app built using Spring Boot. It has been designed with cloud
